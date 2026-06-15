@@ -1,0 +1,35 @@
+# Python virtual environments
+venv/
+.venv/
+Adviser/
+
+# Python cache files
+**/__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Environment files
+.env
+*.env
+
+# Frontend dependencies
+**/node_modules/
+
+# Build folders
+dist/
+build/
+
+# IDE files
+.vscode/
+.idea/
+
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Jupyter notebook checkpoints
+**/.ipynb_checkpoints/
