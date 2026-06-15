@@ -480,7 +480,7 @@ Offers personalized mentoring and career advice.
 
 # 👨‍💻 Author
 
-**Lalita**
+**Lalita Jhapate**
 
 AI & Machine Learning Enthusiast
 
