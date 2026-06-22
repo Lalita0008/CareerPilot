@@ -11,6 +11,8 @@ from groq import Groq
 load_dotenv()
 
 
+
+
 from utils import (
     predict_career,
     extract_skills_from_resume,
@@ -23,6 +25,7 @@ app = FastAPI(title="CareerPilot AI")
 origins = [
     "http://localhost:5173",
     "http://127.0.0.1:5173",
+    "https://ai-career-adviser.netlify.app"
 ]
 
 app.add_middleware(
