@@ -29,6 +29,11 @@ While the platform includes a modern full-stack web interface and AI assistant, 
 
 ---
 
+## Live Demo
+
+🔗 **Link:** https://ai-career-adviser.netlify.app/
+---
+
 # 🎯 Key Features
 
 ### 📄 Resume Analysis
